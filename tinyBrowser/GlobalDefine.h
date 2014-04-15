@@ -1,0 +1,7 @@
+#pragma once
+
+enum RS_MSG
+{
+	RSMSG_AYSN_OPEN_URL = 1000,
+	RSMSG_AYSN_NAVIGATE,
+};
